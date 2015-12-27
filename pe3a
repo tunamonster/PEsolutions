@@ -1,0 +1,5 @@
+start from k=2, divide until modk==0
+take smaller number, loop step 1
+until dividing by itself is the only result for modk=0
+
+k = 2
